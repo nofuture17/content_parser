@@ -1,0 +1,15 @@
+{
+    "name": "nofuture17/parsers",
+    "description": "shop parser",
+    "type": "library",
+    "require": {
+        "spatie/crawler": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "nofuture17\\parsers\\": "src"
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
